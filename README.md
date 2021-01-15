@@ -1,2 +1,2 @@
-# Sem-foroC
+# SemáforoC
 Código para um semáforo C, porém sem o circuito, adicionarei fotos depois...
