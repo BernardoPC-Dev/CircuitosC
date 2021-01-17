@@ -4,7 +4,9 @@ int pinY = 4
 
 void config()
 {
- // Logo Logo Configurado...
+ pinMode(pinR,OUTPUT);
+ pinMode(pinG,OUTPUT);
+ pinMode(pinY,OUTPUT);
 }
 void loop()
 {
