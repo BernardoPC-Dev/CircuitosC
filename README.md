@@ -16,3 +16,11 @@ Materias para o circuito:
 <br>
 
 Em Breve mostrarei como montar o circuito
+
+#### Tutorial do Hardware:
+<br>
+#### Led Vermelho
+<br>
+Conecte o fio preto no negativo e ligue no GND, conecte o 1º Fio Vermelho no positivo e ligue no 1º resistor, conecte o 2º fio vermelho no outro lado do resistor e depois no 2...
+<hr>
+Tutoriais 2, 3 e 4 em breve...
