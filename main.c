@@ -1,8 +1,8 @@
-int pinR = 2
-int pinG = 3
-int pinY = 4
+int pinR = 2;
+int pinG = 3;
+int pinY = 4;
 
-void config()
+void setup()
 {
  pinMode(pinR,OUTPUT);
  pinMode(pinG,OUTPUT);
