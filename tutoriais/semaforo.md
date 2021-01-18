@@ -26,3 +26,5 @@ Conecte o fio preto no negativo e ligue no GND, conecte o 1º Fio Amarelo no pos
 #### Led Verde
 <br>
 Conecte o fio preto no negativo e ligue no GND, conecte o 1º Fio Verde no positivo e ligue no 3º resistor, conecte o 2º fio verde no outro lado do resistor e depois na entrada 4.
+<hr>
+<a href="https://github.com/BernardoPC-Dev/CircuitosC/blob/main/codes/semaforo.c">Ir para o código</a>
