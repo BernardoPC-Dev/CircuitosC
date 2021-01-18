@@ -9,9 +9,9 @@ Materias para o circuito:
 <li>1 Led Verde</li>
 <li>1 Led Amarelo</li>
 <li>3 Fios Pretos</li>
-<li>1 Fio Verde</li>
-<li>1 Fio Vermelho</li>
-<li>1 Fio Amarelo</li>
+<li>2 Fios Verdes</li>
+<li>2 Fios Vermelhos</li>
+<li>2 Fios Amarelos</li>
 
 <br>
 
