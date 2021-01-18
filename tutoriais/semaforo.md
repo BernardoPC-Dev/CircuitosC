@@ -20,10 +20,11 @@ Em Breve mostrarei como montar o circuito
 <br>
 Conecte o fio preto no negativo e ligue no GND, conecte o 1º Fio Vermelho no positivo e ligue no 1º resistor, conecte o 2º fio vermelho no outro lado do resistor e depois na entrada 2.
 <br><br>
-#### Led Amarelo
+### Led Amarelo
 <br>
 Conecte o fio preto no negativo e ligue no GND, conecte o 1º Fio Amarelo no positivo e ligue no 2º resistor, conecte o 2º fio amarelo no outro lado do resistor e depois na entrada 3.
-#### Led Verde
+<br><br>
+### Led Verde
 <br>
 Conecte o fio preto no negativo e ligue no GND, conecte o 1º Fio Verde no positivo e ligue no 3º resistor, conecte o 2º fio verde no outro lado do resistor e depois na entrada 4.
 <hr>
