@@ -1,5 +1,5 @@
 # ProjetosArduino
-Compilados de códigos Arduinos em C, porém sem o circuito, adicionarei fotos depois...
+Compilados de códigos Arduinos em C/C++, com fotos completas e intuitivas!
 <hr>
 # Âncoras:
 <hr>
