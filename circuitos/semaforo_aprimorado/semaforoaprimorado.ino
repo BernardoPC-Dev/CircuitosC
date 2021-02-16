@@ -6,7 +6,6 @@ void setup()
 {
  pinMode(R, OUTPUT);
  pinMode(G, OUTPUT);
- pinMode(B, OUTPUT);
  pinMode(pinB,OUTPUT);
   
  Serial.begin(9600);
@@ -34,30 +33,24 @@ void red() {
  Serial.println("Close");
  analogWrite(R,255);
  analogWrite(G,0);
- analogWrite(B,0);
  temp();
  analogWrite(R,0);
  analogWrite(G,0);
- analogWrite(B,0);
 }
 void gn() {
  digitalWrite(pinB,HIGH);
  analogWrite(R,0);
  analogWrite(G,255);
- analogWrite(B,0);
  temp();
  digitalWrite(pinB,LOW);
  analogWrite(R,0);
  analogWrite(G,0);
- analogWrite(B,0);
 }
 void ye() {
  analogWrite(R,255);
  analogWrite(G,255);
- analogWrite(B,0);
  Serial.println("Cuidado! Sinal vai fechar!");
  temp();
  analogWrite(R,0);
  analogWrite(G,0);
- analogWrite(B,0);
 }
